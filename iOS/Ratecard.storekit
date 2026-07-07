@@ -1,0 +1,27 @@
+{
+  "identifier" : "RatecardProducts",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "3.99",
+      "familyShareable" : false,
+      "internalID" : "com.shimondeitel.ratecard.pro",
+      "localizations" : [
+        {
+          "description" : "Ratecard Pro - Multiple rate cards for different client tiers",
+          "displayName" : "Ratecard Pro",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.shimondeitel.ratecard.pro",
+      "referenceName" : "Ratecard Pro",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {},
+  "subscriptionGroups" : [],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
